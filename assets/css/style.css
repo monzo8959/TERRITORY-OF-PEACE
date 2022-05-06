@@ -242,6 +242,10 @@ and (max-device-width : 568px) {
 .logo_text {
 	display: none;
 }
+	
+.button {
+	margin-bottom: 29%;
+}
 
 .about {
 	margin: 5%;
