@@ -293,6 +293,10 @@ font-size: 12px;
 .contanier p{
 	font-size: 12px;
 }
+	
+.gallery {
+	margin-top: 20px;
+}
 
 .gallery img {
 	padding: 0;
