@@ -297,8 +297,9 @@ font-size: 12px;
 .gallery {
 	padding: 0;
 	margin: 0;
-	height: 100px;
 	justify-content: center;
+	display: flex;
+	height: 100px;
 }
 
 .textgallery {
