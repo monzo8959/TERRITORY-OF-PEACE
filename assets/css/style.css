@@ -235,7 +235,7 @@ and (max-device-width : 568px) {
 }	
 
 .logo {
-	margin-right: 15%;
+	margin-right: 10%;
 }
 
 .logo_text {
@@ -243,7 +243,7 @@ and (max-device-width : 568px) {
 }
 
 .about {
-	margin: 5%;
+    margin: 5%;
     padding: 15% 0;
 }
 
@@ -252,11 +252,11 @@ and (max-device-width : 568px) {
 }
 
 .about h1 {
-	font-size: 28px;
+	font-size: 27px;
 }
 
 .button2 {
-	padding: 15px 40px;
+	padding: 15px 30px;
 }
 
 img.planet{
