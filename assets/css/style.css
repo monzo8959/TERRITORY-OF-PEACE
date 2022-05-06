@@ -250,6 +250,14 @@ and (max-device-width : 568px) {
 .about p {
 	font-size: 130%;
 }
+	
+.about h1 {
+	font-size: 28px;
+}
+
+.button2 {
+	padding: 15px 40px;
+}
 
 img.planet{
 	display: none;
