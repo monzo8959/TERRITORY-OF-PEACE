@@ -147,7 +147,7 @@ section {
 .gallery {
 	margin-top: 40px;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	padding-right: 0px;
 	padding-left: 0px;
 }
