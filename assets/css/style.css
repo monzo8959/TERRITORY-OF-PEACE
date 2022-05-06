@@ -231,6 +231,7 @@ and (max-device-width : 568px) {
 
 .body {
 	width: 100%;
+	text-align: center;
 }	
 
 .logo {
