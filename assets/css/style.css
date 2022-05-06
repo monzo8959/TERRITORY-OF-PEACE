@@ -148,8 +148,8 @@ section {
 	margin-top: 40px;
 	display: flex;
 	justify-content: space-around;
-	padding-right: 200px;
-	padding-left: 200px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 .textgallery {
@@ -289,6 +289,7 @@ font-size: 12px;
 .gallery {
 	padding: 0;
 	margin: 0;
+	height: 100px;
 }
 
 .textgallery {
