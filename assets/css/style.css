@@ -236,6 +236,7 @@ and (max-device-width : 568px) {
 
 .logo {
 	margin-right: 1%;
+	margin-left: 5%;
 }
 
 .logo_text {
